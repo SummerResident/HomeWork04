@@ -16,9 +16,9 @@ public class Task03 {
 		}
 		System.out.println(Arrays.toString(mas));
 
-		System.out.println(sum);
+		System.out.println("Сумма элементов массива : "+sum);
 
 		average = (double) sum / n;
-		System.out.println(average);
+		System.out.println("Среднее значение массива: "+average);
 	}
 }
